@@ -1,0 +1,23 @@
+#abc {
+  margin: 50px;
+}
+
+.spinner {
+  text-align: center;
+  border-radius: 4px;
+  padding: 30px 50px;
+  margin: 20px 0;
+  display: flex;
+  justify-content: center;
+  margin-top: 25%;
+}
+
+.gained {
+  /* color: ; */
+  background-color: rgba(255, 255, 255, 0.7);
+}
+
+.lost {
+  color: green;
+  background-color: lightblue;
+}
